@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://t.me/P3197',
   HEO_INFO_CARD_ICON2: 'fab fa-telegram',
   HEO_INFO_CARD_URL3: 'https://x.com/Mr3197',
-  HEO_INFO_CARD_ICON2: 'fab fa-twitter',
+  HEO_INFO_CARD_ICON3: 'fab fa-twitter',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
